@@ -1,0 +1,28 @@
+.venv/
+_pycache_/
+*.py[cod]
+
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Variables de entorno
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporales
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+.DS_Store
